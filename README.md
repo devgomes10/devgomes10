@@ -1,16 +1,12 @@
-### Hi there 👋
+## Bem-vindo!
 
-<!--
-**devgomes10/devgomes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏼‍💻 Hoje eu estou trabalhando com desenvolvimento mobile
+- 📘 Estudando Dart e Flutter
+- 🔗 Segue o meu LinkedIn: linkedin.com/in/vinicius-gomes-4010b9208
+- 📩 Entre em contato comigo pelo e-mail: viniciusgomesccc10@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="dart" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="dart" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">         
+</div>
+          
